@@ -4,7 +4,17 @@ Estudo de java ao longo do semestre de Programações e soluções computacionai
 
 ## Índice:sunrise:
 
-•Estruturas Sequênciais e Condicionais.
+•Estruturas Sequenciais e Condicionais.
+
+•Estruturas de Repetição
+
+•Vetores
+
+
+
+•Exercícios de fixação
+
+
 
 
 
