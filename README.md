@@ -10,9 +10,9 @@ Estudo de Java ao longo do semestre de Programações e soluções computacionai
 
 •[Vetores](Estudo-de-Java\Estudo-de-Java\Vetores)
 
-•[Matriz](Estudo-de-Java\Estudo-de-Java\Matriz)
+•[Matriz](Estudo-de-Java\Matriz)
 
-[•Exercícios de fixação](Estudo-de-Java\Estudo-de-Java\ExercicioDeFixacao)
+[•Exercícios de fixação](ExercicioDeFixacao)
 
 
 
