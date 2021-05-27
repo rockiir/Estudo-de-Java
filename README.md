@@ -4,15 +4,15 @@ Estudo de Java ao longo do semestre de Programações e soluções computacionai
 
 ## Índice:sunrise:
 
-[•Estruturas Sequenciais e Condicionais.](github\Estudo-de-Java\Estudo-de-Java\Estruturas sequencial e condicional)
+[•Estruturas Sequenciais e Condicionais.](Estudo-de-Java\Estudo-de-Java\Estruturas sequencial e condicional)
 
-[•Estruturas de Repetição](github\Estudo-de-Java\Estudo-de-Java\Estrutura de repetição)
+[•Estruturas de Repetição](Estudo-de-Java\Estudo-de-Java\Estrutura de repetição)
 
-•[Vetores](github\Estudo-de-Java\Estudo-de-Java\Vetores)
+•[Vetores](Estudo-de-Java\Estudo-de-Java\Vetores)
 
-•[Matriz](github\Estudo-de-Java\Estudo-de-Java\Matriz)
+•[Matriz](Estudo-de-Java\Estudo-de-Java\Matriz)
 
-[•Exercícios de fixação](github\Estudo-de-Java\Estudo-de-Java\ExercicioDeFixacao)
+[•Exercícios de fixação](Estudo-de-Java\Estudo-de-Java\ExercicioDeFixacao)
 
 
 
